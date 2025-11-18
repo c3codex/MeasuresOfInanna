@@ -1,0 +1,12 @@
+{
+  "name": "Master Key — The Solar Gate",
+  "type": "Key",
+  "number": 100,
+  "description": "The unifying Key of the Measures of Inanna.",
+  "attributes": [
+    {"trait_type": "Suit", "value": "Master"},
+    {"trait_type": "Category", "value": "Key"},
+    {"trait_type": "Position", "value": 100}
+  ],
+  "image": "Key_Artwork.png"
+}
