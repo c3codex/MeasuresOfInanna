@@ -1,0 +1,16 @@
+{
+  "name": "Gate [#] — [Sumerian Name]",
+  "type": "Plate",
+  "suit": "Obsidian",
+  "category": "Gate",
+  "number": [#],
+  "description": "Master Plate for Gate [#] in The Measures of Inanna.",
+  "attributes": [
+    {"trait_type": "Suit", "value": "Obsidian"},
+    {"trait_type": "Category", "value": "Gate"},
+    {"trait_type": "Plate Number", "value": [#]}
+  ],
+  "image": "Artwork_Front.png",
+  "animation_url": "",
+  "external_url": ""
+}
