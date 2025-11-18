@@ -1,0 +1,14 @@
+{
+  "name": "Epithet [#] — [Name]",
+  "type": "Plate",
+  "suit": "Crystal",
+  "category": "Epithet",
+  "number": [#],
+  "description": "Master Plate for Epithet [#] of The Measures of Inanna.",
+  "attributes": [
+    {"trait_type": "Suit", "value": "Crystal"},
+    {"trait_type": "Category", "value": "Epithet"},
+    {"trait_type": "Plate Number", "value": [#]}
+  ],
+  "image": "Artwork_Front.png"
+}
