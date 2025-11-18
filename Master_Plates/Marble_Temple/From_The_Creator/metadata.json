@@ -1,0 +1,13 @@
+{
+  "name": "[Temple Name]",
+  "type": "Plate",
+  "suit": "Marble",
+  "category": "Temple",
+  "number": [#],
+  "attributes": [
+    {"trait_type": "Suit", "value": "Marble"},
+    {"trait_type": "Category", "value": "Temple"},
+    {"trait_type": "Plate Number", "value": [#]}
+  ],
+  "image": "Artwork_Front.png"
+}
