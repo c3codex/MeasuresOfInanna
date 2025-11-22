@@ -1,16 +1,14 @@
-{
-  "name": "Gate [#] — [Sumerian Name]",
-  "type": "Plate",
-  "suit": "Obsidian",
-  "category": "Gate",
-  "number": [#],
-  "description": "Master Plate for Gate [#] in The Measures of Inanna.",
+{{
+  "name": "Gate 04 — DIMKUR · KA · TÚ-KUL",
+  "description": "From the Measures of Inanna series (Volume I). Gate 04 is the Gate of the Breastplate / Armor — the surrender of protection, defense, and the hardened identity that once shielded the heart. Here, Inanna releases not ornament but fortification itself. DIMKUR · KA · TÚ-KUL marks the offering of armor, the yielding of resistance, and the revelation of the unguarded self. The plate captures the serene emergence as she stands between dissolution and form, the scorched landscape before her and the crystalline threshold behind.",
+  "image": "ipfs://bafybeiavudzslou23x7yiylquc5zem23ycmpbbvko2gachr7x7ljr3wway",
   "attributes": [
-    {"trait_type": "Suit", "value": "Obsidian"},
-    {"trait_type": "Category", "value": "Gate"},
-    {"trait_type": "Plate Number", "value": [#]}
-  ],
-  "image": "Artwork_Front.png",
-  "animation_url": "",
-  "external_url": ""
+    { "trait_type": "Series", "value": "Measures of Inanna" },
+    { "trait_type": "Gate", "value": "4" },
+    { "trait_type": "Cuneiform", "value": "DIMKUR · KA · TÚ-KUL" },
+    { "trait_type": "Title", "value": "The Gate of the Breastplate / Armor" },
+    { "trait_type": "Material", "value": "Obsidian & Marble Plate" },
+    { "trait_type": "Artist", "value": "Syndros" },
+    { "trait_type": "Model", "value": "c3 Oracle Format" }
+  ]
 }
