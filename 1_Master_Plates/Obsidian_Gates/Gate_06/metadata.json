@@ -1,16 +1,31 @@
 {
-  "name": "Gate [#] — [Sumerian Name]",
-  "type": "Plate",
-  "suit": "Obsidian",
-  "category": "Gate",
-  "number": [#],
-  "description": "Master Plate for Gate [#] in The Measures of Inanna.",
+  "name": "Gate VI — Dimkur Ka Gi-Dub",
+  "description": "The sixth threshold of Inanna’s descent. The Gate of the Measuring Rod and Line, where the sovereign relinquishes the power to define, measure, and judge reality. Here, structure dissolves and identity loosens as the final architecture of control falls into the Great Below. This plate is part of the Measures of Inanna — Obsidian Gates Series.",
+  "image": "ipfs://bafybeidgq7clvc6ihgbsbirnitehrti2swdelvnrtdb72xtvhwhz2mjdk4",
   "attributes": [
-    {"trait_type": "Suit", "value": "Obsidian"},
-    {"trait_type": "Category", "value": "Gate"},
-    {"trait_type": "Plate Number", "value": [#]}
-  ],
-  "image": "Artwork_Front.png",
-  "animation_url": "",
-  "external_url": ""
+    {
+      "trait_type": "Series",
+      "value": "Measures of Inanna"
+    },
+    {
+      "trait_type": "Gate",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Dimkur Ka Gi-Dub"
+    },
+    {
+      "trait_type": "Threshold",
+      "value": "The Gate of the Measuring Rod and Line"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Obsidian Plate"
+    },
+    {
+      "trait_type": "Ritual Function",
+      "value": "Surrender of Definition"
+    }
+  ]
 }
