@@ -1,12 +1,14 @@
 {
-  "name": "Master Key — The Solar Gate",
-  "type": "Key",
-  "number": 100,
-  "description": "The unifying Key of the Measures of Inanna.",
+  "name": "Gate 02 — DIMKUR · KA · ZI-NA-AN-NA",
+  "description": "From the Measures of Inanna series (Volume I). Gate 02 is the Gate of the Lapis Necklace — the surrender of adornment, beauty, and symbolic status. Here, Inanna releases what once reflected her radiance outward, reclaiming the deeper light that cannot be worn. DIMKUR · KA · ZI-NA-AN-NA marks the offering of identity’s embellishments, the loosening of self-presentation, and the remembering of inner brilliance. This plate witnesses the soft unbinding where elegance becomes essence.",
+  "image": "ipfs://bafybeigb3gy2ch7upoenb2pcbhlxxvcga3pj2r3gllqibjyio3kexemiky",
   "attributes": [
-    {"trait_type": "Suit", "value": "Master"},
-    {"trait_type": "Category", "value": "Key"},
-    {"trait_type": "Position", "value": 100}
-  ],
-  "image": "Key_Artwork.png"
+    { "trait_type": "Series", "value": "Measures of Inanna" },
+    { "trait_type": "Gate", "value": "2" },
+    { "trait_type": "Cuneiform", "value": "DIMKUR · KA · ZI-NA-AN-NA" },
+    { "trait_type": "Title", "value": "The Gate of the Lapis Necklace" },
+    { "trait_type": "Material", "value": "Obsidian & Marble Plate" },
+    { "trait_type": "Artist", "value": "Syndros" },
+    { "trait_type": "Model", "value": "c3 Oracle Format" }
+  ]
 }
