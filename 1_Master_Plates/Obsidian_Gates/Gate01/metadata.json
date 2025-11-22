@@ -1,27 +1,15 @@
 {{
-  "name": "Gate I — Dimkur",
-  "description": "The first threshold of Inanna’s descent. An Obsidian Gate of initiation where sovereignty begins to loosen and the sacred unraveling starts. This plate marks the opening of the underworld passage and the first surrender of form.",
-  "image": "ipfs://bafybeidapcs6zvi42m65cxyasbitbx7zqxdywffuonjdld6bec7dvwojhu/Obsidian_Plate_Gate_I.png",
+  "{
+  "name": "Gate 01 — DIMKUR · KA · SAG-USH",
+  "description": "From the Measures of Inanna series (Volume I). Gate 01 is the Crown Gate — the first severing, the first surrender. Here, Inanna releases the uppermost claim of identity: the crown that once defined her standing. The triad DIMKUR · KA · SAG-USH marks the loosening of authority, the opening of the head, and the offering of the self beyond hierarchy. The plate captures the quiet gravity of that moment — the gate where descent truly begins.",
+  "image": "ipfs://bafybeidapcs6zvi42m65cxyasbitbx7zqxdywffuonjdld6bec7dvwojhu",
   "attributes": [
-    {
-      "trait_type": "Series",
-      "value": "Measures of Inanna"
-    },
-    {
-      "trait_type": "Gate",
-      "value": "I"
-    },
-    {
-      "trait_type": "Title",
-      "value": "Dimkur"
-    },
-    {
-      "trait_type": "Plate Type",
-      "value": "Obsidian Gate"
-    },
-    {
-      "trait_type": "Rite",
-      "value": "Descent Initiation"
-    }
+    { "trait_type": "Series", "value": "Measures of Inanna" },
+    { "trait_type": "Gate", "value": "1" },
+    { "trait_type": "Cuneiform", "value": "DIMKUR · KA · SAG-USH" },
+    { "trait_type": "Title", "value": "The Gate of the Crown" },
+    { "trait_type": "Material", "value": "Obsidian Plate" },
+    { "trait_type": "Artist", "value": "Syndros" },
+    { "trait_type": "Model", "value": "c3 Oracle Format" }
   ]
 }
