@@ -1,16 +1,14 @@
 {
-  "name": "Gate [#] — [Sumerian Name]",
-  "type": "Plate",
-  "suit": "Obsidian",
-  "category": "Gate",
-  "number": [#],
-  "description": "Master Plate for Gate [#] in The Measures of Inanna.",
+  "name": "Gate 05 — DIMKUR · KA · GU-ZI-GAL",
+  "description": "From the Measures of Inanna series (Volume I). Gate 05 is the Gate of the Bracelets — the surrender of the binding ornaments that once encircled the wrists and marked rank, wealth, and divine association. Here, Inanna releases the symbols of reach and command, loosening the bands that defined what she could grasp or hold. DIMKUR · KA · GU-ZI-GAL marks the offering of influence, the unfastening of rank, and the quiet revelation of open hands. This plate reflects the moment when authority is no longer worn, but remembered within.",
+  "image": "ipfs://bafybeidwxhex5ibvqkiw45dvr5zbhd2u4yllqnyxyjqv2vnzboiqyt6ff4",
   "attributes": [
-    {"trait_type": "Suit", "value": "Obsidian"},
-    {"trait_type": "Category", "value": "Gate"},
-    {"trait_type": "Plate Number", "value": [#]}
-  ],
-  "image": "Artwork_Front.png",
-  "animation_url": "",
-  "external_url": ""
+    { "trait_type": "Series", "value": "Measures of Inanna" },
+    { "trait_type": "Gate", "value": "5" },
+    { "trait_type": "Cuneiform", "value": "DIMKUR · KA · GU-ZI-GAL" },
+    { "trait_type": "Title", "value": "The Gate of the Bracelets" },
+    { "trait_type": "Material", "value": "Obsidian & Marble Plate" },
+    { "trait_type": "Artist", "value": "Syndros" },
+    { "trait_type": "Model", "value": "c3 Oracle Format" }
+  ]
 }
