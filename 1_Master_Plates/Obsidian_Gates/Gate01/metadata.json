@@ -1,16 +1,27 @@
-{
-  "name": "Gate [#] — [Sumerian Name]",
-  "type": "Plate",
-  "suit": "Obsidian",
-  "category": "Gate",
-  "number": [#],
-  "description": "Master Plate for Gate [#] in The Measures of Inanna.",
+{{
+  "name": "Gate I — Dimkur",
+  "description": "The first threshold of Inanna’s descent. An Obsidian Gate of initiation where sovereignty begins to loosen and the sacred unraveling starts. This plate marks the opening of the underworld passage and the first surrender of form.",
+  "image": "ipfs://bafybeidapcs6zvi42m65cxyasbitbx7zqxdywffuonjdld6bec7dvwojhu/Obsidian_Plate_Gate_I.png",
   "attributes": [
-    {"trait_type": "Suit", "value": "Obsidian"},
-    {"trait_type": "Category", "value": "Gate"},
-    {"trait_type": "Plate Number", "value": [#]}
-  ],
-  "image": "Artwork_Front.png",
-  "animation_url": "",
-  "external_url": ""
+    {
+      "trait_type": "Series",
+      "value": "Measures of Inanna"
+    },
+    {
+      "trait_type": "Gate",
+      "value": "I"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Dimkur"
+    },
+    {
+      "trait_type": "Plate Type",
+      "value": "Obsidian Gate"
+    },
+    {
+      "trait_type": "Rite",
+      "value": "Descent Initiation"
+    }
+  ]
 }
